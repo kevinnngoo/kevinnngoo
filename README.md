@@ -47,9 +47,10 @@ Here are some of my top projects:
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/kevin-ngo-51598526b/)
-- [GitHub](https://github.com/kevinnngoo)
+- [GitHub](https://github.com/kevinnngoo
+- 📧 Email: [kevinngo2002@gmail.com](mailto:kevinngo2002@gmail.com)
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or project discussions!
