@@ -40,12 +40,6 @@ Here are some of my top projects:
 
 ---
 
-### 🏆 GitHub Stats
-
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinnngoo&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinnngoo&layout=compact&theme=radical)
-
----
 
 ### 🌐 Let's Connect!
 
