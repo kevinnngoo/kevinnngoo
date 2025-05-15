@@ -1,50 +1,64 @@
-# 👋 Kevin Ngo
+<h1 align="center">Hi 👋, I'm Kevin Ngo</h1>
+<h3 align="center">Aspiring software developer who loves solving problems with clean, efficient code and is passionate about learning across both frontend and backend technologies.</h3>
 
-Hi! I'm Kevin, a passionate software developer with a strong foundation in web development and software engineering. I specialize in creating dynamic and responsive web applications using modern technologies. I am committed to writing clean and efficient code to bring innovative ideas to life.
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kevinnngoo" alt="kevinnngoo" />
+  </a>
+</p>
 
 ---
 
-### 🔧 Technical Skills
+### 🔭 I’m currently working on
+- A **new personal portfolio website** to better showcase my projects and journey.
 
-Here are the tools, languages, and frameworks I've worked with:
+### 🌱 I’m currently learning
+- Django, Flask, and AWS for backend and deployment.
+
+### 📂 Featured Projects
+
+- **[🧠 Stock Market Predictor](https://github.com/kevinnngoo/stock-market-predictor)**  
+  Machine learning project that predicts future stock prices using historical Yahoo Finance data. Built with Python, scikit-learn, pandas, and Matplotlib.
+
+- **[💎 The Jewel Tree Bot](https://github.com/kevinnngoo/the-jewel-tree-bot)**  
+  A custom Discord bot built with Python to promote a jewelry brand by notifying the server of new Instagram posts.
+
+- **[🎮 Conway’s Game of Life](https://github.com/kevinnngoo/conways_game_of_life)**  
+  A terminal-based simulation of cellular automata where patterns evolve using simple logic. Built entirely in Python with real-time animations.
+
+
+### 📫 How to reach me
+- Email: [kevinngo2002@gmail.com](mailto:kevinngo2002@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/kevinqngo/)
+- [GitHub](https://github.com/kevinnngoo)
+
+### ⚡ Fun fact
+If I'm not coding, I'm probably at the gym. Gains and git commits are my life. 💪
+
+### 📘 Currently Reading
+I'm currently reading the *Solo Leveling* manhwa! 🗡️
+
+---
+
+### 🛠️ Languages and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-### 📂 Projects
+### 📊 GitHub Stats
 
-Here are some of my top projects:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinnngoo&show_icons=true&locale=en&layout=compact" alt="kevinnngoo" /></p>
 
-- **[Real-time Currency Converter (C++)](#)**  
-  A console application that fetches live exchange rates from an API, featuring a user-friendly interface for seamless input and output.
-
-- **[JavaScript Stopwatch](#)**  
-  A dynamic stopwatch using JavaScript, HTML, and CSS with real-time updates and responsive design.
-
-- **[Weather Dashboard (JavaScript)](#)**  
-  A web app displaying real-time weather data from an external API with dynamic UI updates and responsive design.
-
-- **[Interactive Quiz Application (JavaScript)](#)**  
-  A quiz app dynamically generating questions, tracking scores, and providing immediate feedback to users.
-
----
-
-
-### 🌐 Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/kevin-ngo-51598526b/)
-- [GitHub](https://github.com/kevinnngoo
-- 📧 Email: [kevinngo2002@gmail.com](mailto:kevinngo2002@gmail.com)
-
-Feel free to explore my repositories, and don't hesitate to reach out for collaboration or project discussions!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinnngoo&show_icons=true&locale=en" alt="kevinnngoo" /></p>
