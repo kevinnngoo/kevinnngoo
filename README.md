@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kevin Ngo</h1>
 <h3 align="center">Aspiring software developer who loves solving problems with clean, efficient code and is passionate about learning across both frontend and backend technologies.</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kevinnngoo" alt="kevinnngoo" />
-  </a>
-</p>
-
----
-
 ### 🔭 I’m currently working on
 - A **new personal portfolio website** to better showcase my projects and journey.
 
