@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Ngo</h1>
-<h3 align="center">Aspiring software developer who loves solving problems with clean, efficient code and is passionate about learning across both frontend and backend technologies.</h3>
+<h3 align="center">Aspiring software engineer who loves solving problems with clean, efficient code and is passionate about learning across both frontend and backend technologies.</h3>
 
 ### 🔭 I’m currently working on
 - A **new personal portfolio website** to better showcase my projects and journey.
